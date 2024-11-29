@@ -3,6 +3,6 @@ import random
 
 sixfortunes = ['大吉','中吉','小吉','吉','凶','大凶']
 
-fortune = random.choice(sixfortunes)
+fortune = random.choice(sixfortunes)#nrjbgervberbverbvferjebvukebr
 
 print(fortune)
