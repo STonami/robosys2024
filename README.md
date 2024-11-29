@@ -1,4 +1,5 @@
 # robosys2024
+[![test](https://github.com/STonami/robosys2024/actions/workflows/test.yml/badge.svg)](https://github.com/STonami/robosys2024/actions/workflows/test.yml)
 
 2024年度ロボットシステム学
 
