@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 import random
 
-fortunes = ['大吉','中吉','小吉','吉','凶','大凶']
+sixfortunes = ['大吉','中吉','小吉','吉','凶','大凶']
 
-fortune = random.choice(fortunes)
+fortune = random.choice(sixfortunes)
 
 print(fortune)
